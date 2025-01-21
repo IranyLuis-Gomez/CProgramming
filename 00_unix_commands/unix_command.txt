@@ -20,4 +20,6 @@
 
 11. git commit -m "Description"
 
-12 git push 
+12. git push
+
+13. git status
